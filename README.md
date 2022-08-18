@@ -1,2 +1,2 @@
-# -dev-2-Ki-isel-Sayfam-z-Detayland-rma
+# Ödev 2
 www.patika.dev 
