@@ -1,2 +1,2 @@
-# Ödev 2
+# HTML Ödev 2
 www.patika.dev 
